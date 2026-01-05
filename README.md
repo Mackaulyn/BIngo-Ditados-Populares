@@ -6,8 +6,6 @@
 
 O **Bingo de Ditados Populares** é uma aplicação desktop desenvolvida em Java para proporcionar entretenimento e estímulo cognitivo a idosos, como os residentes do Lar dos Velhinhos. O sistema substitui os números tradicionais pela primeira parte de provérbios conhecidos, incentivando os participantes a completarem as frases e exercitarem a memória de longo prazo durante a dinâmica.
 
-🔗 **Acesse o projeto:** [Clique aqui para visualizar](https://mackaulyn.github.io/O-Patio-Cafe/)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
